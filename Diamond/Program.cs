@@ -3,7 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+//MIROSLAV/
 
+
+
+    Console.WriteLine("TEST");   
 namespace Diamond
 {
     class Program
