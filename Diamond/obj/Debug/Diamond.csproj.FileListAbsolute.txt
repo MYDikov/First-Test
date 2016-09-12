@@ -1,0 +1,6 @@
+C:\Users\Miro Dikov\Desktop\Lection_6\Diamond\bin\Debug\Diamond.exe.config
+C:\Users\Miro Dikov\Desktop\Lection_6\Diamond\bin\Debug\Diamond.exe
+C:\Users\Miro Dikov\Desktop\Lection_6\Diamond\bin\Debug\Diamond.pdb
+C:\Users\Miro Dikov\Desktop\Lection_6\Diamond\obj\Debug\Diamond.csprojResolveAssemblyReference.cache
+C:\Users\Miro Dikov\Desktop\Lection_6\Diamond\obj\Debug\Diamond.exe
+C:\Users\Miro Dikov\Desktop\Lection_6\Diamond\obj\Debug\Diamond.pdb
