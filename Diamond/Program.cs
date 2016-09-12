@@ -7,10 +7,15 @@ using System.Threading.Tasks;
 
 
 
+
     Console.WriteLine("TEST GitHub");  
 
 
 //My test// 
+
+    Console.ReadLine("enter your Name:");
+    Console.WriteLine("TEST GitHub");   
+
 namespace Diamond
 {
     class Program
