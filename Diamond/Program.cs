@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 
 
-    Console.WriteLine("TEST");   
+    Console.WriteLine("TEST GitHub");   
 namespace Diamond
 {
     class Program
