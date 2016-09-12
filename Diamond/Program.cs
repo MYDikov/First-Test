@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 //MIROSLAV/
 
 
-
+    Console.ReadLine("enter your Name:");
     Console.WriteLine("TEST GitHub");   
 namespace Diamond
 {
